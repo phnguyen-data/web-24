@@ -1,0 +1,57 @@
+.header{
+    padding-top: 50px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+    align-content: space-around; 
+}
+
+.comment{
+    width: 100%;
+    text-align: center;
+    align-content: space-around; 
+    margin-bottom: 50px;
+}
+
+.col-lg-4 {
+    width: 30%;
+    text-align: center;
+    padding: 2.5%;
+    margin: 0;
+}
+.col-sm-6 {
+    width: 47%;
+    text-align: center;
+    padding: 2.5%;
+    margin: 0;
+}
+.col-12 {
+    width: 100%;
+    text-align: center;
+    padding: 2.5%;
+    margin: 0;
+}
+
+.row{
+    justify-content: space-evenly;
+}
+
+
+.col-5, .col-7{
+    text-align: initial;
+    font-size: 90%;
+}
+
+.fa-clock{
+    padding-top: 5px;
+    padding-right: 0.5%;
+}
+
+@media screen and (max-width: 576px){
+}
+
+.card-body p{
+    padding-top: 2%;
+    text-align: initial;
+    font-size: 90%;
+}
